@@ -46,4 +46,5 @@ message Status {
     }
 
     State state = 1;
+    string vector = 2;
 }
